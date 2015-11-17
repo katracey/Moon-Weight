@@ -1,0 +1,9 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_MoonWeight\150914_MoonWeight\bin\Debug\150914_MoonWeight.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_MoonWeight\150914_MoonWeight\obj\Debug\150914_MoonWeight.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_MoonWeight\150914_MoonWeight\bin\Debug\150914_MoonWeight.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_MoonWeight\150914_MoonWeight\bin\Debug\150914_MoonWeight.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_MoonWeight\150914_MoonWeight\obj\Debug\150914_MoonWeight.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\150914_MoonWeight\150914_MoonWeight\obj\Debug\150914_MoonWeight.pdb
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150914_MoonWeight\150914_MoonWeight\bin\Debug\150914_MoonWeight.exe.config
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150914_MoonWeight\150914_MoonWeight\obj\Debug\150914_MoonWeight.exe
+C:\Users\WeCanCodeIT\Documents\Visual Studio 2015\Projects\Week2 - Conditionals, Loops, Arrays\150914_MoonWeight\150914_MoonWeight\obj\Debug\150914_MoonWeight.pdb
